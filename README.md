@@ -1,0 +1,1 @@
+A simple contacts app built with the MERN stack.
